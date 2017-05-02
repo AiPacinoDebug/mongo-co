@@ -1,10 +1,10 @@
 {
   "name": "mongo-co",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "mongo-co",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "mongodb": "~2.2.26"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "db"
   ],
   "author": "mzTeamMeatMan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mzTeamMeatMan/mongo-co/issues"
   },
