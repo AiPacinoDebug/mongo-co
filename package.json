@@ -1,0 +1,24 @@
+{
+  "name": "mongo-co",
+  "version": "0.0.1",
+  "description": "mongo-co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzTeamMeatMan/mongo-co.git"
+  },
+  "keywords": [
+    "mongo",
+    "database",
+    "db"
+  ],
+  "author": "mzTeamMeatMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzTeamMeatMan/mongo-co/issues"
+  },
+  "homepage": "https://github.com/mzTeamMeatMan/mongo-co#readme"
+}
